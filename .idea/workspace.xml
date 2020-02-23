@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f72cfce8-b56c-4048-b494-f92180525550" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Listy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitIgnore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/pizza/AlAmericanThin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/pizza/GlutenFree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/pizza/Hawaiian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/pizza/Ingredients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/pizza/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/pizza/Margaritta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/pizza/PizzaDough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sda/pizza/Veggie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/sda/arrays/ex03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/sda/arrays/ex03/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/sda/arrays/ex03/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/sda/arrays/ex03/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/sda/arrays/ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/sda/arrays/ex2/Main.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1YD7MIkS9FxYvw7Hv9wkI0SzWsL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.pizza.Main" />
+      <module name="Pizza" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.pizza.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f72cfce8-b56c-4048-b494-f92180525550" name="Default Changelist" comment="" />
+      <created>1582465261587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582465261587</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
